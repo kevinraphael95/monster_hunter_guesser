@@ -1,9 +1,0 @@
-discord.py>=2.0.0
-flask
-numpy
-psutil
-python-dateutil
-python-dotenv>=1.0.0
-requests
-
-beautifulsoup4
